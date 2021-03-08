@@ -1,0 +1,3 @@
+- Start category-service, product-service, user-service, payment-service
+- Start service-registry (PORT 8761)
+- Start cloud-gateway (API GATEWAY - PORT 8989)
